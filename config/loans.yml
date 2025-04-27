@@ -1,0 +1,11 @@
+build:
+  version: "3.0.0"
+
+loans:
+  # noinspection SpringBootApplicationYaml
+  message: "Welcome to Loans Rest API Service"
+  contactDetails:
+    name: "John Doe"
+    email: "xYRf4@example.com"
+  onCallSupport:
+    -(876)9060653

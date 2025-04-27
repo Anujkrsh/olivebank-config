@@ -1,0 +1,11 @@
+build:
+  version: "2.0.0"
+
+accounts:
+  # noinspection SpringBootApplicationYaml
+  message: "Welcome to Accounts QA Rest API Service"
+  contactDetails:
+    name: "John Doe"
+    email: "xYRf4@example.com"
+  onCallSupport:
+    -(666)9060653

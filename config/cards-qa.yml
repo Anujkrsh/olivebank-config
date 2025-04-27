@@ -1,0 +1,11 @@
+build:
+  version: "2.0.0"
+
+cards:
+  # noinspection SpringBootApplicationYaml
+  message: "Welcome to Cards QA Rest API Service"
+  contactDetails:
+    name: "John Doe"
+    email: "xYRf4@example.com"
+  onCallSupport:
+    -(666)9060653
