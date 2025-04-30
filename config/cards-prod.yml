@@ -3,7 +3,7 @@ build:
 
 cards:
   # noinspection SpringBootApplicationYaml
-  message: "Welcome to Cards Prod Rest API Service"
+  message: "Welcome to Cards Production Rest API Service"
   contactDetails:
     name: "John Doe"
     email: "xYRf4@example.com"
