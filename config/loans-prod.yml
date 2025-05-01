@@ -3,7 +3,7 @@ build:
 
 loans:
   # noinspection SpringBootApplicationYaml
-  message: "Welcome to Loans Production Rest API Service"
+  message: "Welcome to Loans Production Rest Webhook API Service"
   contactDetails:
     name: "John Doe"
     email: "doe@ymail.com"
