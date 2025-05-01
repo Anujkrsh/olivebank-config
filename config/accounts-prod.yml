@@ -6,6 +6,6 @@ accounts:
   message: "Welcome to Accounts Production Rest API Service"
   contactDetails:
     name: "{cipher}90dc1d177f9a7e29888040a1f1c270657c3066f935e23180f48cc0148819e34a"
-    email: "anuj@gmail.com"
+    email: "anuj@ymail.com"
   onCallSupport:
     -(666)9060653
