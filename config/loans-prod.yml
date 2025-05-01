@@ -6,6 +6,6 @@ loans:
   message: "Welcome to Loans Production Rest API Service"
   contactDetails:
     name: "John Doe"
-    email: "xYRf4@example.com"
+    email: "xYRf4@gmail.com"
   onCallSupport:
     -(666)9060653
